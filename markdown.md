@@ -16,3 +16,7 @@ _You **can** combine them_
 1. James Madison
 2. James Monroe
 3. John Quincy Adams
+
+1. James Madison
+1. James Monroe
+1. John Quincy Adams
