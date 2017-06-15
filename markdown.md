@@ -27,7 +27,7 @@ _You **can** combine them_
   *describe
   *nihao
    *hello
-
-- [x] Finish my changes
-- [ ] Push my commit to Github
-- [ ] Open a pull request
+   
+ - [x] Finish my changes
+ - [ ] Push my commit to Github
+ - [ ] Open a pull request
