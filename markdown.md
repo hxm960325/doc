@@ -8,3 +8,7 @@ __This will also be blod__
 
 ~~This test will be delete~~
 _You **can** combine them_
+
+- George Washington
+- John Adams
+* Thomas Jefferson
