@@ -36,3 +36,7 @@ _You **can** combine them_
 >>嵌套引用
 
 [github](http://github.com)
+
+If you want to embed images,this is how you do
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
